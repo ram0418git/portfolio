@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Gundepalli Sai Sriram",
+    "occupation": "Assistant System Engineer !!",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Gundepalli Sai Sriram, Assistant System Engineer at TATA Consultancy Services (TCS) Limited and 2021 graduate outfitted with a Bachelor of Technology in Electronics and Communication engineering. Extreme attention to detail and ability to work within fast-paced environments..",
+    "contactmessage": "Get in touch with me. Feel free to contact!",
+    "email": "gssriram1999@gmail.com",
+    "phone": "+91 9553619189",
+    "address": {
+      "street": "Door No. 122-6-73, Opposite Sivalayam, Mallayapeta",
+      "city": "Rajahmundry",
+      "state": "Andhra Pradesh",
+      "zip": "533105"
+    },
+    "resumedownload": "./resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sai-sriram-gundepalli-ba20b8159/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ram0418git/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Sri_Ramtweets/",
+        "className": "fa fa-twitter"
+      }
+
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "JNTUK University College of Engineering Vizianagaram",
+        "degree": "Bachelor Of Technology, Electronics and Communication Engineering",
+        "graduated": "August 2021",
+        "description": "CGPA: 7.93"
+      },
+      {
+        "school": "Prathibha Junior College",
+        "degree": "Intermediate (XII) : Maths Physics Chemistry (MPC)",
+        "graduated": "April 2017",
+        "description": "Percentage: 97.9%"
+      },
+      {
+        "school": "Prathibha Edu Care",
+        "degree": "10th Class (X)",
+        "graduated": "April 2015",
+        "description": "CGPA - 9.5"
+      }
+    ],
+    "work": [
+      {
+        "company": "TATA Consultancy Services (TCS) Limited",
+        "title": "Assistant System Engineer",
+        "years": "August 2021 - Present",
+        "description": "Providing end to end monitoring and IT services for Citibank."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Js",
+        "level": "80%"
+      },
+      {
+        "name": "Node Js",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "C",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "S L A P P (Vanilla JS)",
+        "category": "What Your Name Mean",
+        "image": "slapp.png",
+        "url": "https://ram0418git.github.io/slapp/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Selected for the position of Managed Network Expert at Chegg Expert",
+        "user": "Chegg Expert"
+      }
+    ]
+  }
+}
